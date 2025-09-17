@@ -1,68 +1,40 @@
 # 👋 Hi, I'm Goitseone Rakgomo  
 
-🎓 Final-year Computer Science student (South Africa) | 💻 Software Developer | ☁️ Cloud Enthusiast  
+🎓 Final-year Computer Science student | 💻 Software Engineer | ☁️ Cloud Enthusiast  
 
-I’m passionate about building **secure, scalable, and user-friendly software solutions** that solve real-world problems.  
-With nearly 2 years of combined experience in **software development and cloud automation**, I’ve worked on diverse projects ranging from **web applications and healthcare platforms** to **community infrastructure systems**.  
-
----
-
-## 🚀 About Me
-- 🔹 Strong foundation in **Java, Python, Kotlin, and web technologies (HTML, CSS, JS, PHP)**  
-- 🔹 Skilled in **Spring Boot, Jakarta EE, JPA, GlassFish, REST APIs, Service-Oriented Architecture**  
-- 🔹 Experienced in **multi-database systems, security, and role-based access control**  
-- 🔹 Hands-on with **cloud computing** concepts (CompTIA Cloud+ trained, DP-900 prep)  
-- 🔹 Passionate about **health-tech, AI-driven education tools, and community-focused systems**  
+I build **secure, scalable, and user-friendly software solutions** with a passion for **health-tech, cloud, and community-focused systems**.  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, Python, Kotlin, SQL, JavaScript, PHP  
-**Frameworks & Tools:** Spring Boot, Jakarta EE, JPA, NetBeans, GlassFish, Android Studio  
-**Web Development:** HTML5, CSS3, React, TailwindCSS  
-**Databases:** MySQL, Derby, Oracle SQL, JSON data integration  
-**Cloud & DevOps:** REST APIs, SOA, Git/GitHub, basic Azure & AWS exposure  
+## 🛠️ Tech Toolkit  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,php,html,css,react,tailwind,sqlite,mysql,git,github,spring,idea,vscode" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏥 [DoctorsNearMe](#)
-A **Spring Boot web app** that connects patients with nearby doctors, including **ratings, reviews, and profile updates**.  
-📌 Uses JSON integration for data handling.
-
-### 💊 [Healing Hands Healthcare](#)
-A **public healthcare platform** featuring:  
-- Online appointment booking system  
-- South African ID-based access  
-- AI chatbot for symptom diagnosis & appointment assistance  
-- Responsive design with accessibility focus  
-
-### 🎮 [Coin Tossing Game](#)
-A **secure, role-based web app** where players guess outcomes against a computer character (**Siri**) with:  
-- Authentication & session management  
-- Game statistics tracking  
-- Admin, Player & Owner roles  
-
-### 🏫 [School Application System](#)
-A **multi-database system** for township schools with:  
-- Public application website  
-- School admin portal  
-- Central meta-database for Fortitude Admin access  
+## 🌟 Notable Projects  
+- 🏥 **DoctorsNearMe** – Spring Boot app connecting patients with nearby doctors (profiles, ratings, reviews).  
+- 💊 **Healing Hands Healthcare** – Public healthcare platform with AI chatbot & appointment booking.  
+- 🎮 **Coin Tossing Game** – Role-based secure web app with authentication & game statistics.  
+- 🏫 **School Application System** – Multi-database solution for township schools & central admin.  
 
 ---
 
-## 📊 Experience
-- **E-Mbizo Solution Developers (18 months)** – Software Development Learner (HTML, CSS, Web Applications)  
-- **Geeks4Learning (3 months)** – Cloud Automation & REST API training (CompTIA Cloud+ concepts, SOA)  
+## 📊 Quick Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
-🌐 Portfolio (coming soon)  
+## 📫 Connect With Me  
+🌐 Portfolio *(coming soon)*  
 💼 [LinkedIn](#)  
-📧 Email: *[your email here]*  
+📧 *[your email here]*  
 
 ---
-
-> 💡 *I’m open to global opportunities where I can contribute my skills in software engineering, web development, and cloud technologies while continuing to grow as a professional.*  
+✨ *Always learning, always building — ready for global opportunities.*  
