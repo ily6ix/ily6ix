@@ -9,7 +9,7 @@ I build **secure, scalable, and user-friendly software solutions** with a passio
 ## 🛠️ Tech Toolkit  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,php,html,css,react,tailwind,sqlite,mysql,git,github,spring,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I build **secure, scalable, and user-friendly software solutions** with a passio
 
 ## 📫 Connect With Me  
 🌐 Portfolio *(coming soon)*  
-💼 [LinkedIn](#)  
+💼 [LinkedIn]([#](https://www.linkedin.com/in/goitseone-rakgomo-614242279/))  
 📧 *[your email here]*  
 
 ---
