@@ -28,13 +28,5 @@ I build **secure, scalable, and user-friendly software solutions** with a passio
   <img src="https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-## 📫 Connect With Me  
-🌐 Portfolio *(coming soon)*  
-💼 [LinkedIn]([#](https://www.linkedin.com/in/goitseone-rakgomo-614242279/))  
-📧 *[your email here]*  
-
 ---
 ✨ *Always learning, always building — ready for global opportunities.*  
