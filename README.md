@@ -18,45 +18,4 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure)
 
----
 
-## 📈 GitHub Stats
-
-![Goitseone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
-## 📌 Pinned Projects
-
-### [DoctorsNearMe](https://github.com/ily6ix/DoctorsNearMe)
-A Spring Boot application that connects patients with nearby doctors, featuring profiles, ratings, and reviews.
-
-### [Healing Hands Healthcare](https://github.com/ily6ix/HealingHandsHealthcare)
-A public healthcare platform integrating an AI chatbot and appointment booking system.
-
-### [Coin Tossing Game](https://github.com/ily6ix/CoinTossingGame)
-A role-based secure web application with user authentication and game statistics.
-
-### [School Application System](https://github.com/ily6ix/SchoolApplicationSystem)
-A multi-database solution designed for township schools and central administration.
-
----
-
-## 🌐 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/goitseone-rakgomo-614242279)
-- [Portfolio](https://portfolio-website-theta-two-59.vercel.app/portfolio-website-theta-two-59.vercel.app)
-- [Twitter](https://twitter.com/your-handle)
-
----
-
-## 🎯 Current Focus
-
-I'm currently working on integrating machine learning models into healthcare applications to improve diagnostic accuracy and patient outcomes. I'm also exploring DevOps practices to streamline deployment pipelines and enhance system reliability.
-
--
-## 🧭 My GitHub Journey
-
-I started my GitHub journey in 2020, contributing to open-source projects and collaborating 
-::contentReference[oaicite:0]{index=0}
- 
