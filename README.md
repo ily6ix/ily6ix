@@ -39,13 +39,13 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 
 ![Goitseone Rakgomo](https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&theme=github_dark&hide_border=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ily6ix&theme=github-dark&hide_border=true)
 
 <!-- Optional: Contribution Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-compact&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=github-compact&hide_border=true" />
 </a>
 
 
