@@ -11,6 +11,11 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-003466?style=flat-square&logo=oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=gnu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
