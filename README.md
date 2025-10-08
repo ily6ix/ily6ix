@@ -1,5 +1,4 @@
 <!-- Header Section -->
-![Banner](https://github.com/ily6ix/ily6ix/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Goitseone Rakgomo
 ### Final-year Computer Science student | Software Engineer | ☁️ Cloud Enthusiast
