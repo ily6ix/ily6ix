@@ -37,7 +37,7 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ---
 ### 📈 GitHub Stats & Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark&hide_border=true&hide=prs)
+![Goitseone Rakgomo](https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&theme=github_dark&hide_border=true&hide=prs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark&hide_border=true)
 
