@@ -1,7 +1,7 @@
 <!-- Header Section -->
 
 # 👋 Hi, I'm Goitseone Rakgomo
-### Computer Scienece Graduate | Software Engineer | Aspiring AI/ML Engineer
+### Computer Scienece Graduate | Software Engineer | AI/ML Engineer | Data Science
 
 I'm passionate about building secure, scalable, and user-friendly software solutions. My focus areas include health-tech, cloud computing, and community-driven systems. Currently, I'm exploring the intersection of AI and healthcare to develop innovative solutions.
 
