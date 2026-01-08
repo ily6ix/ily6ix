@@ -12,24 +12,34 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 
 ## 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-003466?style=flat-square&logo=oracle)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=gnu&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-![JEE](https://img.shields.io/badge/-JEE-ED8B00?style=flat-square&logo=java)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java)
-![Servlets](https://img.shields.io/badge/-Servlets-4B8BBE?style=flat-square&logo=java)
-![JFrame](https://img.shields.io/badge/-JFrame-007396?style=flat-square&logo=java)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+
+<p align="left">
+  <!-- Existing Icons -->
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg
+  <img alt="Android" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+ wordmark.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+
+  <!-- Missing Icons from Badge List -->
+  <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ /gh/devicons/devicon/icons/oracle/oracle-original.svg
+</p>
+
 
 
 
