@@ -37,11 +37,6 @@ on this:<p align="left">
 </p>
 
 
-
-
-
-
----
 ## 🧠 ML / AI / Data Analytics
 
 
@@ -62,8 +57,10 @@ on this:<p align="left">
   <!-- Pandas -->
   <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   
-  <!-- Scikit-learn -->
-  <img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+
+<!-- Scikit-learn -->
+<img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+
 </p>
 
 
