@@ -45,11 +45,27 @@ on this:<p align="left">
 ## 🧠 ML / AI / Data Analytics
 
 
+
 <p align="left">
+  <!-- Matplotlib -->
   <img alt="Matplotlib" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  
+  <!-- TensorFlow -->
   <img alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  
+  <!-- Keras -->
   <img alt="Keras" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+  
+  <!-- NumPy -->
+  <img alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  
+  <!-- Pandas -->
+  <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  
+  <!-- Scikit-learn -->
+  <img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
 </p>
+
 
 
 
