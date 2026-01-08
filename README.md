@@ -1,5 +1,8 @@
 <!-- Header Section -->
 
+
+[![Goitse](assets/goitse.jpg)]
+---
 # 👋 Hi, I'm Goitseone Rakgomo
 ### Computer Scienece Graduate | Software Engineer | AI/ML Engineer | Data Science
 
