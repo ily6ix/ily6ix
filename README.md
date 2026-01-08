@@ -13,32 +13,27 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ## 🔧 Technologies & Tools
 
 
-<p align="left">
-  <!-- Existing Icons -->
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg
+on this:<p align="left">
+  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="IntelliJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
   <img alt="Android" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
- wordmark.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
-
-  <!-- Missing Icons from Badge List -->
-  <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- /gh/devicons/devicon/icons/oracle/oracle-original.svg
+  <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Gradle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
+  <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
+
+
 
 
 
