@@ -8,7 +8,7 @@
 ![Goitse](assets/goitse.jpg)
 I'm passionate about building secure, scalable, and user-friendly software solutions. My focus areas include health-tech, cloud computing, and community-driven systems. Currently, I'm exploring the intersection of AI and healthcare to develop innovative solutions.
 
----
+
 
 ## 🔧 Technologies & Tools
 
@@ -43,7 +43,7 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 
 
-``
+
 
 
 <!-- Optional: Contribution Graph -->
