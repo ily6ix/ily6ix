@@ -43,6 +43,7 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 
 ---
+
 ### 📈 GitHub Stats & Activity
 
 ![Goitseone Rakgomo](https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&theme=github_dark&hide_border=true&hide=prs)
@@ -50,6 +51,8 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ily6ix&theme=github-dark&hide_border=true)
+``
+
 
 <!-- Optional: Contribution Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
