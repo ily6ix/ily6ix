@@ -46,20 +46,10 @@ on this:<p align="left">
 ## 🧠 ML / AI / Data Analytics
 
 <p align="left">
-  <!-- Existing Icons -->
-  <ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
   <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="IntelliJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
- g
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg
   <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cssle/gradle-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cssle/gradle-original.svg>
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
