@@ -13,7 +13,7 @@ I'm passionate about building secure, scalable, and user-friendly software solut
 ## 🔧 Technologies & Tools
 
 
-on this:<p align="left">
+<p align="left">
   <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -57,9 +57,9 @@ on this:<p align="left">
   <!-- Pandas -->
   <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   
+  <!-- Scikit-learn -->
+  <img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
 
-<!-- Scikit-learn -->
-<img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
 
 </p>
 
