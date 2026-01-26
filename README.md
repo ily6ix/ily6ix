@@ -8,7 +8,6 @@
 Passionate about building **secure, scalable, and user-centric software** with a focus on **health-tech, cloud computing, and community-driven systems**.  
 I'm currently exploring the intersection of **AI and healthcare** to develop impactful, innovative solutions.  
 
----
 
 ## 🔧 Technologies & Tools
 
@@ -65,16 +64,12 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
 
 
 
-
-
-
 <!-- Optional: Contribution Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=github-compact&hide_border=true" />
 </a>
 
 
----
 
 ## 📫 Let's Connect  
 
@@ -87,7 +82,6 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
 
 </div>
 
----
 
 <div align="center">
 
