@@ -10,41 +10,6 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
 
 ---
 
-
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)  
-
-</div>
-
----
-
-## 📫 Let's Connect  
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goitseone-rakgomo)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building technology that matters — one line of code at a time."* ✨
-
-</div>
-
 ## 🔧 Technologies & Tools
 
 
@@ -107,6 +72,28 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=github-compact&hide_border=true" />
 </a>
+
+
+---
+
+## 📫 Let's Connect  
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goitseone-rakgomo)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building technology that matters — one line of code at a time."* ✨
+
+</div>
 
 
 
