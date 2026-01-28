@@ -4,13 +4,9 @@
 ![Goitse](assets/goitse.jpg)
 # 👋 Hi, I'm Goitseone Rakgomo  
 ### Software Engineer | AI/ML Engineer | Computer Science Graduate  
-
-# 🙋‍♂️ About Me
-
 Passionate about building **secure, scalable, and user‑centric software** with a focus on **health‑tech, cloud computing, and community‑driven systems**.  
 I'm currently exploring the intersection of **AI and healthcare** to develop impactful, innovative solutions.
 
----
 
 # 💼 Current Roles
 
