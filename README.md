@@ -112,7 +112,7 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ily6ix/github-readme-activity-graph">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=github-compact&hide_border=true" />
   </a>
 </p>
