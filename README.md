@@ -64,8 +64,8 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   ><img  alt="HTML5" width="50px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"  />
   <img alt="HTML5" width="50px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" />
   <img alt="HTML5" width="50px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"  />  
-  <img lt="HTML5" width="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"  /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg"/> 
+  <img alt="HTML5" width="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"  /> 
+  <img alt="HTML5" width="50px"src="https://profilinator.rishav.dev/skills-assets/gitlab.svg"/> 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>   
