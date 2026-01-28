@@ -118,15 +118,15 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
 
   <h3>💻 Profile Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ily6ix/github-readme-stats">
     <img alt="Goitseone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ily6ix/github-readme-stats">
     <img alt="Goitseone's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
   </a>
   <br/>
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <a href="https://github.com/ily6ix/github-readme-streak-stats">
     <img alt="Streak" src="https://streak-stats.demolab.com?user=ily6ix&theme=gotham&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="170px"/>
   </a>
 
