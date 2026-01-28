@@ -10,17 +10,13 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
 
 # 💼 Current Roles
 
-### 🎓 Graduate: Products (Intern)  
+###  Graduate: Products (Intern)  
 **Mustek Ltd — ISG Department**  
 Supporting product development and system enablement with a focus on technical analysis and innovative solution delivery.
 
 ###  Full Stack Developer  
 **Capaciti UVU Africa**  
 Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
-
-###  Web Developer  
-**Mavis Strategic Partners**  
-Creating responsive, business‑focused websites and digital tools that enhance client operations
 
 
 
