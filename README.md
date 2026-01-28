@@ -121,22 +121,6 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 
 <br/>
 
-<!-- Social badges: stars, followers, views -->
-<p align="center">
-  <a href="https://github.com/ily6ix?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ily6ix?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/ily6ix?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ily6ix?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ily6ix">
-    <img alt="Profile Views" title="GitHub Profile Views" src="https://freshidea.com/jonah/app/ily6ix-profile-views"/>
-  </a>
-</p>
-
-
-<br/>
-
 <details>
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
 
