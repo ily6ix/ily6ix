@@ -30,7 +30,7 @@ Supporting product development and system enablement with a focus on technical a
 Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
 
 <br/>
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 
 <p align="left">
