@@ -56,9 +56,9 @@ I'm currently exploring the intersection of **AI and healthcare** to develop imp
   <!-- Pandas -->
   <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   
- <a href="https://portfolio-website-theta-two-59.vercel.app/">
-  <img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-</a>
+ <!-- Scikit-learn -->
+<img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+``
 ``
 
 </p>
