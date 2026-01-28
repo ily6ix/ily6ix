@@ -2,23 +2,52 @@
 
 
 ![Goitse](assets/goitse.jpg)
-# 👋 Hi, I'm Goitseone Rakgomo  
-### Software Engineer | AI/ML Engineer | Computer Science Graduate  
-Passionate about building **secure, scalable, and user‑centric software** with a focus on **health‑tech, cloud computing, and community‑driven systems**.  
-I'm currently exploring the intersection of **AI and healthcare** to develop impactful, innovative solutions.
 
 
-# 💼 Current Roles
+<!-- Header Section -->
+<p align="center">
+  <!-- Replace the link target if you prefer LinkedIn or GitHub -->
+  <a href="https://portfolio-website-theta-two-59.vercel.app/" title="Goitseone Rakgomo — Portfolio">
+    <!-- If you have chat.svg, place it in /assets/chat.svg or adjust the path -->
+    <img src="assets/chat.svg" alt="Let’s Chat" />
+  </a>
+</p>
 
-###  Graduate: Products (Intern)  
+<p align="center">
+  <img src="assets/goitse.jpg" alt="Goitse" width="120" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Goitseone Rakgomo</h1>
+<h3 align="center">Software Engineer · AI/ML Engineer · Computer Science Graduate</h3>
+<h4 align="center">
+  Passionate about building <b>secure, scalable, user‑centric software</b> with a focus on 
+  <b>health‑tech, cloud computing, and community‑driven systems</b>. Exploring the intersection of 
+  <b>AI and healthcare</b> to develop impactful, innovative solutions.
+</h4>
+
+<!-- Typing SVG banners -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Goitseone+Rakgomo" alt="Typing: Name" />
+  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI%2FML+Engineer;Health-tech+%7C+Cloud+%7C+Data;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=45&color=4cb5f5&vCenter=true&pause=1000&size=22" alt="Typing: tagline" />
+  </a>
+</p>
+
+<br/>
+
+## 💼 Current Roles
+
+### Graduate: Products (Intern)  
 **Mustek Ltd — ISG Department**  
 Supporting product development and system enablement with a focus on technical analysis and innovative solution delivery.
 
-###  Full Stack Developer  
+### Full Stack Developer  
 **Capaciti UVU Africa**  
 Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
 
-
+<br/>
 
 ## 🔧 Technologies & Tools
 
@@ -89,131 +118,7 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 
 </div>  
 
-<br/>  
 
-
-## 🧠 ML / AI / Data Analytics
-
-
-
-<p align="left">
-  <!-- Matplotlib -->
-  <img alt="Matplotlib" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-  
-  <!-- TensorFlow -->
-  <img alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  
-  <!-- Keras -->
-  <img alt="Keras" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-  
-  <!-- NumPy -->
-  <img alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  
-  <!-- Pandas -->
-  <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  
- <!-- Scikit-learn -->
-<img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-``
-``
-
-</p>
-
-
-
-<!-- Optional: Contribution Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=github-compact&hide_border=true" />
-</a>
-
-
-
-## 📫 Let's Connect  
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-theta-two-59.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goitseone-rakgomo)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ily6ix)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goitseonetrade@gmail.com)
-
-</div>
-
-
-<div align="center">
-
-*"Building technology that matters — one line of code at a time."* ✨
-
-</div>
-
-<!-- Header Section -->
-<p align="center">
-  <!-- Replace the link target if you prefer LinkedIn or GitHub -->
-  <a href="https://portfolio-website-theta-two-59.vercel.app/" title="Goitseone Rakgomo — Portfolio">
-    <!-- If you have chat.svg, place it in /assets/chat.svg or adjust the path -->
-    <img src="assets/chat.svg" alt="Let’s Chat" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/goitse.jpg" alt="Goitse" width="120" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">👋 Hi, I'm Goitseone Rakgomo</h1>
-<h3 align="center">Software Engineer · AI/ML Engineer · Computer Science Graduate</h3>
-<h4 align="center">
-  Passionate about building <b>secure, scalable, user‑centric software</b> with a focus on 
-  <b>health‑tech, cloud computing, and community‑driven systems</b>. Exploring the intersection of 
-  <b>AI and healthcare</b> to develop impactful, innovative solutions.
-</h4>
-
-<!-- Typing SVG banners -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Goitseone+Rakgomo" alt="Typing: Name" />
-  </a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI%2FML+Engineer;Health-tech+%7C+Cloud+%7C+Data;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=45&color=4cb5f5&vCenter=true&pause=1000&size=22" alt="Typing: tagline" />
-  </a>
-</p>
-
-<br/>
-
-## 💼 Current Roles
-
-### Graduate: Products (Intern)  
-**Mustek Ltd — ISG Department**  
-Supporting product development and system enablement with a focus on technical analysis and innovative solution delivery.
-
-### Full Stack Developer  
-**Capaciti UVU Africa**  
-Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
-
-<br/>
-
-## 🔧 Technologies & Tools
-
-<p align="left">
-  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Android" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="IntelliJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</p>
 
 <br/>
 
@@ -432,6 +337,17 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+## 📫 Let's Connect  
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-theta-two-59.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goitseone-rakgomo)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ily6ix)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goitseonetrade@gmail.com)
+
+</div>
 
 
 
