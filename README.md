@@ -15,14 +15,7 @@
 </h4>
 
 <!-- Typing SVG banners -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Goitseone+Rakgomo" alt="Typing: Name" />
-  </a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI%2FML+Engineer;Health-tech+%7C+Cloud+%7C+Data;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=45&color=4cb5f5&vCenter=true&pause=1000&size=22" alt="Typing: tagline" />
-  </a>
-</p>
+![Animated Introduction](chat-animation.svg)
 
 <br/>
 
