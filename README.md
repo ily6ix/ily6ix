@@ -4,18 +4,7 @@
 ![Goitse](assets/goitse.jpg)
 
 
-<!-- Header Section -->
-<p align="center">
-  <!-- Replace the link target if you prefer LinkedIn or GitHub -->
-  <a href="https://portfolio-website-theta-two-59.vercel.app/" title="Goitseone Rakgomo — Portfolio">
-    <!-- If you have chat.svg, place it in /assets/chat.svg or adjust the path -->
-    <img src="assets/chat.svg" alt="Let’s Chat" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="assets/goitse.jpg" alt="Goitse" width="120" style="border-radius:50%;" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Goitseone Rakgomo</h1>
 <h3 align="center">Software Engineer · AI/ML Engineer · Computer Science Graduate</h3>
