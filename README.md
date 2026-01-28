@@ -107,8 +107,6 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 
 </div>  
 
-
-
 <br/>
 
 ## 🧠 ML · AI · Data Analytics
@@ -131,43 +129,9 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   </a>
 </p>
 
-<br/>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://portfolio-website-theta-two-59.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/goitseone-rakgomo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ily6ix">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:goitseonetrade@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <p align="center"><i>"Building technology that matters — one line of code at a time."</i> ✨</p>
 
 <br/>
-
-<!-- Social icons (like the reference) -->
-<p align="center">
-  <a href="https://linkedin.com/in/goitseone-rakgomo" title="LinkedIn">
-    <img width="32px" alt="LinkedIn" src="https://i.imgur.com/2eg7N0H.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:goitseonetrade@gmail.com" title="Email">
-    <img width="32px" alt="Email" src="https://i.imgur.com/dR2b6s0.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://portfolio-website-theta-two-59.vercel.app/" title="Portfolio">
-    <img width="32px" alt="Portfolio" src="https://i.imgur.com/OXZM1L6.png"/>
-  </a>
-</p>
 
 <!-- Social badges: stars, followers, views -->
 <p align="center">
@@ -182,61 +146,6 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   </a>
 </p>
 
-<br/>
-
-<details open>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-  <h3>👨‍💻 Programming & Markup</h3>
-  <p>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  </p>
-
-  <h3>🧰 Frameworks & Libraries</h3>
-  <p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-    <img alt="Express" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e.svg?logo=opencv&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white">
-  </p>
-
-  <h3>🗄️ Databases & Cloud</h3>
-  <p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28.svg?logo=firebase&logoColor=black">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
-    <img alt="GCP" src="https://img.shields.io/badge/GCP-1a73e8.svg?logo=google-cloud&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-  </p>
-
-  <h3>💻 DevOps & Tooling</h3>
-  <p>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellij-idea&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
-  </p>
-</details>
 
 <br/>
 
