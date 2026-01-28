@@ -131,7 +131,7 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   </a>
 
   <h3>📈 Activity Graph</h3>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ily6ix/github-readme-activity-graph">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&bg_color=1F222E&color=F8D866&line=4cb5f5&point=FFFFFF&hide_border=true" />
   </a>
 
@@ -151,20 +151,6 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
-
-<br/>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{ily6ix}/count.svg" alt="Visitor Count" />
-</p>
-
-<!-- Contribution Snake (optional; requires setup of a workflow in a repo like `ily6ix/snk`) -->
-<!--
-<img src="https://raw.githubusercontent.com/ily6ix/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
--->
-
-
 
 <br/>
 
