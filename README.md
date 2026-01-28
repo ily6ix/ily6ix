@@ -5,8 +5,29 @@
 # 👋 Hi, I'm Goitseone Rakgomo  
 ### Software Engineer | AI/ML Engineer | Computer Science Graduate  
 
-Passionate about building **secure, scalable, and user-centric software** with a focus on **health-tech, cloud computing, and community-driven systems**.  
-I'm currently exploring the intersection of **AI and healthcare** to develop impactful, innovative solutions.  
+# 🙋‍♂️ About Me
+
+Passionate about building **secure, scalable, and user‑centric software** with a focus on **health‑tech, cloud computing, and community‑driven systems**.  
+I'm currently exploring the intersection of **AI and healthcare** to develop impactful, innovative solutions.
+
+---
+
+# 💼 Current Roles
+
+### 🎓 Graduate: Products (Intern)  
+**Mustek Ltd — ISG Department**  
+Supporting product development and system enablement with a focus on technical analysis and innovative solution delivery.
+
+### 💻 Full Stack Developer  
+**Capaciti UVU Africa**  
+Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
+
+### 🌐 Web Developer  
+**Mavis Strategic Partners**  
+Creating responsive, business‑focused websites and digital tools that enhance client operations.
+
+---
+
 
 
 ## 🔧 Technologies & Tools
